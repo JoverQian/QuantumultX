@@ -2,24 +2,12 @@
   "name": "Jover's icons",
   "icons": [
     {
-      "name": "JNU.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU.png"
+      "name": "JNU_1.png",
+      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_1.png"
     },
     {
-      "name": "JNU_144.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_144.png"
-    },
-    {
-      "name": "JNU_144_T.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_144_T.png"
-    },
-    {
-      "name": "JNU_297.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_297.png"
-    },
-    {
-      "name": "JNU_144_T_2.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_144_T_2.png"
+      "name": "JNU_2.png",
+      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_2.png"
     }
   ],
   "description": "收集的一些自用图标"
