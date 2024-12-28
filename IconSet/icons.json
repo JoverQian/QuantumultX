@@ -2,12 +2,8 @@
   "name": "Jover's icons",
   "icons": [
     {
-      "name": "JNU_1.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_1.png"
-    },
-    {
-      "name": "JNU_2.png",
-      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU_2.png"
+      "name": "JNU.png",
+      "url": "https://raw.githubusercontent.com/JoverQian/QuantumultX/main/IconSet/JNU.png"
     }
   ],
   "description": "收集的一些自用图标"
